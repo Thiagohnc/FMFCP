@@ -12,6 +12,6 @@ A versão ccp_sshp necessita da instalação do comando sshpass, que pode ser ob
 
 ## Utilização
 
-A sintaxe é quase a mesma do CCP original. Escolha a versão que você prefere utilizar, compile-a gerando um executável com o nome "ccp" e rode o seguinte comando para utilizar:
+A sintaxe para utilização é muito similar à do CCP original. Escolha a versão que você prefere utilizar, compile-a gerando um executável com o nome "ccp" e rode o seguinte comando para utilizar:
 
 ./ccp user@SOURCE_HOST:path user@DESTINATION_HOST:path
